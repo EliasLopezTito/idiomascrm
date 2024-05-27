@@ -1,0 +1,9 @@
+config/*
+cron/*
+database/*
+storage/*
+vendor/*
+vendor_/*
+public/auth/plugins/*
+tests/*
+.env
